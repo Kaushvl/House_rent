@@ -1,4 +1,4 @@
-BHK,Size,Floor,Area Type,City,Furnishing Status,Tenant Preferred,Bathroom,Rent
+BHK,Size,Floor,Area_Type,City,Furnishing_Status,Tenant_Preferred,Bathroom,Rent
 2,1100,0,1,7000,0,2,2,10000
 2,800,1,1,7000,1,2,1,20000
 2,1000,1,1,7000,1,2,1,17000
